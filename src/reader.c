@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-const unsigned int MAX_BUFFER_SIZE;
+const unsigned int MAX_BUFFER_SIZE = 2000;
 
 Buffer *get_filenames(const char *dir) {}
 
