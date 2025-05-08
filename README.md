@@ -1,6 +1,6 @@
 # Wiki to Markdown
 
-![](watar%20pokimon.jpeg)
+![](files/watar%20pokimon.jpeg)
 *ta slika je simbolična*
 
 ## Cilj tega progama
@@ -23,13 +23,13 @@ Vem da obstaja ta [plugin](https://github.com/ozntel/obsidian-link-converter) in
 
 ## Kaj je wikilink?
 
-Wikilink je formata `[[]]` ali `![[]]`. Presledki v imenu jih ne motijo. Na primer:
+Wikilink je formata `[[]]` ali `![[]]`. Presledki v imenu jih ne motijo, prav lahko izpusti imena direktorijev. Na primer, tu bi lahko pisali brez `files`:
 
 ```
-![[watar pokimon.jpeg]]
+![[files/watar pokimon.jpeg]]
 ```
 
-![](watar%20pokimon.jpeg)
+![](files/watar%20pokimon.jpeg)
 
 Lahko se pojavijo tudi v obliki 
 
@@ -37,7 +37,7 @@ Lahko se pojavijo tudi v obliki
 ![[watar pokimon.png|300]]
 ```
 
-![300](watar%20pokimon.jpeg)
+![300](files/watar%20pokimon.jpeg)
 
 ali pa 
 
@@ -45,7 +45,7 @@ ali pa
 ![[watar pokimon.png|800x60]]
 ```
 
-![800x60](watar%20pokimon.jpeg)
+![800x60](files/watar%20pokimon.jpeg)
 
 V Obsidian lahko tako prilagodiš velikost slike (kar se lahko prevede tudi v markdown link).
 
@@ -59,24 +59,24 @@ prazen, ampak v `()` je potrebno podati relativno (ali absolutno) pot do datotek
 
 Če se pojavijo v imenu presledki, jih je potrebno nadomestit z `%20`:
 
-- `![](watar pokimon.png)` - NE
-- `![](watar%20pokimon.png)` - JA
+- `![](files/watar pokimon.png)` - NE
+- `![](files/watar%20pokimon.png)` - JA
 
 S parametrom za velikost je lahko povezava
 
 ```
-![200](watar%20pokimon.jpeg
+![200](files/watar%20pokimon.jpeg
 ```
 
-![200](watar%20pokimon.jpeg)
+![200](files/watar%20pokimon.jpeg)
 
 ali pa 
 
 ```
-![50x100](watar%20pokimon.jpeg)
+![50x100](files/watar%20pokimon.jpeg)
 ```
 
-![100x250](watar%20pokimon.jpeg)
+![100x250](files/watar%20pokimon.jpeg)
 
 # Usage
 
