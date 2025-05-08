@@ -1,0 +1,3 @@
+/home/pogacha/progAAAAAAA/wiki_to_markdown/build/CMakeFiles/wtm.dir
+/home/pogacha/progAAAAAAA/wiki_to_markdown/build/CMakeFiles/edit_cache.dir
+/home/pogacha/progAAAAAAA/wiki_to_markdown/build/CMakeFiles/rebuild_cache.dir
