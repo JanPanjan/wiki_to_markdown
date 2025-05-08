@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/wtm.dir/src/main.c.o CMakeFiles/wtm.dir/src/reader.c.o CMakeFiles/wtm.dir/src/parser.c.o CMakeFiles/wtm.dir/src/result.c.o -o wtm
