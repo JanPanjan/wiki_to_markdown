@@ -37,7 +37,7 @@ Lahko se pojavijo tudi v obliki
 ![[watar pokimon.png|300]]
 ```
 
-![300](files/watar%20pokimon.jpeg)
+![](Pasted%20image%2020250508234908.png)
 
 ali pa 
 
@@ -45,7 +45,7 @@ ali pa
 ![[watar pokimon.png|800x60]]
 ```
 
-![800x60](files/watar%20pokimon.jpeg)
+![](Pasted%20image%2020250508234946.png)
 
 V Obsidian lahko tako prilagodiš velikost slike (kar se lahko prevede tudi v markdown link).
 
@@ -68,7 +68,7 @@ S parametrom za velikost je lahko povezava
 ![200](files/watar%20pokimon.jpeg
 ```
 
-![200](files/watar%20pokimon.jpeg)
+![](Pasted%20image%2020250508235012.png)
 
 ali pa 
 
@@ -76,7 +76,7 @@ ali pa
 ![50x100](files/watar%20pokimon.jpeg)
 ```
 
-![100x250](files/watar%20pokimon.jpeg)
+![](Pasted%20image%2020250508235029.png)
 
 # Usage
 
