@@ -34,20 +34,20 @@ Wikilink je formata `[[]]` ali `![[]]`. Presledki v imenu jih ne motijo, prav la
 Lahko se pojavijo tudi v obliki 
 
 ```
-![[watar pokimon.png|300]]
+![[watar pokimon.jpeg|200]]
 ```
 
-![](files/Pasted%20image%2020250508234908.png)
+![200](Pasted%20image%2020250509124812.png)
 
 ali pa 
 
 ```
-![[watar pokimon.png|800x60]]
+![[watar pokimon.jpeg|800x60]]
 ```
 
 ![](files/Pasted%20image%2020250508234946.png)
 
-V Obsidian lahko tako prilagodiš velikost slike (kar se lahko prevede tudi v markdown link).
+V Obsidian lahko tako prilagodiš velikost slike (kar se lahko prevede tudi v markdown link, ampak deluje samo znotraj Obsidian-a).
 
 > `.excalidraw` datoteke GitHub žal ne more renderat, zato jih je treba
 > exportat v `png` ročno.
@@ -81,7 +81,7 @@ ali pa
 # Usage
 
 ```bash
-sudo apt install cmake make # sry windows
-chmod +x run.sh # za execution pravice
-./run.sh # build-a in zažene program
+sudo apt install cmake make # ali kakorkoli že za vaš sistem
+chmod +x wtm.sh # za execution pravice
+./wtm.sh # build-a in zažene program
 ```

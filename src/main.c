@@ -5,11 +5,11 @@
 #include <stdlib.h>
 
 int main() {
-    Buffer *testno = read_file_contents("../testna.txt");
+	Buffer *testno = read_file_contents("../testna.txt");
 
-    printf("%s\n", testno->raw);
+	printf("%s\n", testno->raw);
 
-    system("ls");
+	system("ls");
 
-    return 0;
+	return 0;
 }
