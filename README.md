@@ -37,8 +37,6 @@ Lahko se pojavijo tudi v obliki
 ![[watar pokimon.jpeg|200]]
 ```
 
-![200](files/Pasted%20image%2020250509124812.png)
-
 ![](files/Pasted%20image%2020250509124812.png)
 
 ali pa 
